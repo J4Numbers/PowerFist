@@ -1,5 +1,5 @@
 #D&D PowerFist: The Campaign
-By ΩM4Numbers
+By @M4Numbers
 
 ##Foreword
 "Cogs, Steam, and puppy dog's gears; that's what makes an automaton"  
