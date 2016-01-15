@@ -209,5 +209,5 @@ However, even as the adventurers fight, the ship is going down, still several
 miles outside of the city in the wilderness. This battle completes as the ship
 clears the lower layer of the smog cloud, careening towards the ground and a
 brand new crash site. Any adventurer which has not anchored themselves somehow
-in a secure location (or taken similar precautions) suffers 1D10 of bludgeoning
-damage as the ship crashes.
+in a secure location (or taken similar precautions) after 5 rounds of combat
+suffers 1D10 of bludgeoning damage as the ship crashes.
